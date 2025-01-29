@@ -19,3 +19,7 @@ cmake ..
 make
 ./fesolver
 ```
+
+## Notes
+- Hourglass mode handling not added, occurs in hex meshes with forces directly along the element edges
+- Terms: condition number (related to stability)
